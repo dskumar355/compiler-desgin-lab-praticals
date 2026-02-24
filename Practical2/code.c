@@ -33,6 +33,7 @@ int main() {
     printf("Vowels      : %d\n", vowels);
     printf("Consonants  : %d\n", consonants);
     printf("Symbols     : %d\n", symbols);
-
+    printf("Sai");
+    
     return 0;
 }
