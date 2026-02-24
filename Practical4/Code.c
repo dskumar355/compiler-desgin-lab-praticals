@@ -63,7 +63,7 @@ int main() {
     char x;         // Top of stack symbol
 
     /* Display grammar */
-    printf("Grammar:\n");
+    printf("grammar:\n");
     printf("E  -> T E'\n");
     printf("E' -> + T E' | ε\n");
     printf("T  -> i\n\n");
