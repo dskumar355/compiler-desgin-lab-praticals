@@ -10,7 +10,7 @@ int i=0, id=0, kw=0, num=0, op=0, sp=0, ar=0, count=0, new_line=0;
 char keys[32][10] = {
     "auto","break","case","char","const","continue","default","do","double",
     "else","enum","extern","float","for","goto","if","int","long","register",
-    "return","short","signed","sizeof","static","struct","switch","typedef",
+    "return","short","signed","sizeof","statsaic","struct","switch","typedef",
     "union","unsigned","void","volatile","while"
 };
 
