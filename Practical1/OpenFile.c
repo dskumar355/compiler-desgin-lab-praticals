@@ -11,7 +11,7 @@ int main() {
 
     if (f1 == NULL) {
         printf("File not found\n");
-        exit(0);
+        exit(0); 
     }
 
     while ((ch = fgetc(f1)) != EOF) {
